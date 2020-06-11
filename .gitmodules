@@ -1,0 +1,9 @@
+[submodule "vscode-omni"]
+	path = vscode-omni
+	url = https://github.com/getomni/vscode-omni
+[submodule "hyper-omni"]
+	path = hyper-omni
+	url = https://github.com/getomni/hyper-omni
+[submodule "insomnia-omni"]
+	path = insomnia-omni
+	url = https://github.com/getomni/insomnia-omni
