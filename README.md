@@ -16,6 +16,7 @@ Omni currently supports 11 applications. You can find them below:
 - [Hyper](https://github.com/getomni/hyper)
 - [Insomnia](https://github.com/getomni/insomnia)
 - [Visual Studio Code](https://github.com/getomni/visual-studio-code)
+- [Windows Terminal](https://github.com/getomni/windows-terminal)
 
 ### Unix
 
