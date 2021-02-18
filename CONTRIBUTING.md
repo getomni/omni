@@ -19,7 +19,10 @@ Try to encourage newcomers to express their opinions and make them comfortable e
 To submit a new theme, you need to follow these steps:
 
 1. Create a new repository based on the [template](https://github.com/getomni/template).
+   1.1. The branch name must be `main` (we will keep this name pattern from now on).
 2. Build the new theme using the [Omni Color Palette](https://github.com/getomni/omni#color-palette).
 3. Submit an issue with the link to your repository. Once the theme is accepted, we will move the repository under the Omni organization.
 4. Open a PR to add the theme to the main repository (this one). Add it under its respective category (if it doesn't exist, you can create one). Also, make sure it is in alphabetical order.
-5. Finally, after your theme is under the organization, spread the word by tweeting about it and encouraging others to try it out.
+   4.1. Update the total number of applications supported in the README.
+5. Finally, after your theme is under the organization, update all links to match the new repository URL.
+6. Spread the word by tweeting about your new theme and encouraging others to try it out.
