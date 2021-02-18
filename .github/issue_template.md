@@ -10,6 +10,7 @@ If you have already created an theme, make sure you check the following requirem
 
 - [] The theme follows the [template](https://github.com/getomni/template).
 - [] The theme follows the Omni Color Palette.
+- [] The branch name is `main` (we will keep this name pattern from now on)
 - [] The theme has instructions on how to install it.
 
 - **Application:** Ex. Windows Terminal
