@@ -10,5 +10,5 @@
 -->
 
 <!--
-  2. Update the total number of applications supported. 
+  2. Update the total number of applications supported in the README. 
 -->
