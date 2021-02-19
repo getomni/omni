@@ -13,13 +13,13 @@ Feel free to create a new theme based on our [color palette](https://github.com/
 
 If you have already created a theme, make sure you check the following requirements:
 
-- [] The theme follows the [template](https://github.com/getomni/template).
-- [] The theme follows the Omni Color Palette.
-- [] The branch name is `main` (we will keep this name pattern from now on)
-- [] The theme has instructions on how to install it.
+- [ ] The theme follows the [template](https://github.com/getomni/template).
+- [ ] The theme follows the Omni Color Palette.
+- [ ] The branch name is `main` (we will keep this name pattern from now on)
+- [ ] The theme has instructions on how to install it.
 
-- **Application:** Ex. Windows Terminal
-- **GitHub URL:** Ex. https://github.com/getomni/omni
+**Application:** Ex. Windows Terminal
+**GitHub URL:** Ex. https://github.com/getomni/omni
 
 ## Existing Theme?
 
