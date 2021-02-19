@@ -11,7 +11,7 @@ Feel free to create a new theme based on our [color palette](https://github.com/
 
 ## Add a new theme to the organization?
 
-If you have already created an theme, make sure you check the following requirements:
+If you have already created a theme, make sure you check the following requirements:
 
 - [] The theme follows the [template](https://github.com/getomni/template).
 - [] The theme follows the Omni Color Palette.
