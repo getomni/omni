@@ -1,3 +1,8 @@
+---
+name: New theme
+about: New theme ideas or requests to add new themes to the organization
+---
+
 ## New theme idea?
 
 We would love to support all applications out there, but we need your help to accomplish that. 
