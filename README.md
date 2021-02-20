@@ -25,8 +25,8 @@ Omni currently supports 12 applications. You can find them below:
 ### Terminal Emulators
 
 - [Hyper](https://github.com/getomni/hyper)
-- [Konsole](https://github.com/getomni/konsole)
 - [Kitty](https://github.com/getomni/kitty)
+- [Konsole](https://github.com/getomni/konsole)
 
 ### Other
 
