@@ -4,7 +4,7 @@ Dark theme created by <a href="https://rocketseat.com.br?ref=omnitheme">Rocketse
 
 ## Themes
 
-Omni currently supports 13 applications. You can find them below:
+Omni currently supports 14 applications. You can find them below:
 
 ### Browsers
 
@@ -15,19 +15,20 @@ Omni currently supports 13 applications. You can find them below:
 
 - [Insomnia](https://github.com/getomni/insomnia)
 - [Visual Studio Code](https://github.com/getomni/visual-studio-code)
-- [Windows Terminal](https://github.com/getomni/windows-terminal)
 
 ### Unix
 
 - [GTK and Gnome Shell](https://github.com/getomni/gtk)
+- [KDE Plasma](https://github.com/getomni/kde-plasma)
+- [Konsole](https://github.com/getomni/konsole)
 - [Ulauncher](https://github.com/getomni/ulauncher)
 
 ### Terminal Emulators
 
 - [Alacritty](https://github.com/getomni/alacritty)
 - [Hyper](https://github.com/getomni/hyper)
-- [Kitty](https://github.com/getomni/kitty)
 - [Konsole](https://github.com/getomni/konsole)
+- [Windows Terminal](https://github.com/getomni/windows-terminal)
 
 ### Other
 
