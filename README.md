@@ -26,9 +26,9 @@ Omni currently supports 14 applications. You can find them below:
 
 - [Alacritty](https://github.com/getomni/alacritty)
 - [Hyper](https://github.com/getomni/hyper)
+- [Kitty](https://github.com/getomni/kitty)
 - [Konsole](https://github.com/getomni/konsole)
 - [Windows Terminal](https://github.com/getomni/windows-terminal)
-- [Kitty](https://github.com/getomni/kitty)
 
 ### Other
 
