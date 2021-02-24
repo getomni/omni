@@ -4,10 +4,11 @@ Dark theme created by <a href="https://rocketseat.com.br?ref=omnitheme">Rocketse
 
 ## Themes
 
-Omni currently supports 16 applications. You can find them below:
+Omni currently supports 17 applications. You can find them below:
 
 ### Browsers
 
+- [Vivaldi](https://github.com/getomni/Vivaldi)
 - [Firefox](https://github.com/getomni/firefox)
 - [Google Chrome](https://github.com/getomni/google-chrome)
 
