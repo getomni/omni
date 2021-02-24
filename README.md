@@ -14,6 +14,7 @@ Omni currently supports 15 applications. You can find them below:
 ### Developer tools
 
 - [Insomnia](https://github.com/getomni/insomnia)
+- [Visual Studio Code](https://github.com/getomni/visual-studio-code)
 
 ### Unix
 
@@ -32,7 +33,6 @@ Omni currently supports 15 applications. You can find them below:
 ### Text Editors
 
 - [GNU Emacs](https://github.com/getomni/emacs)
-- [Visual Studio Code](https://github.com/getomni/visual-studio-code)
 
 ### Other
 
