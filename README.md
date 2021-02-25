@@ -8,9 +8,9 @@ Omni currently supports 17 applications. You can find them below:
 
 ### Browsers
 
-- [Vivaldi](https://github.com/getomni/Vivaldi)
 - [Firefox](https://github.com/getomni/firefox)
 - [Google Chrome](https://github.com/getomni/google-chrome)
+- [Vivaldi](https://github.com/getomni/Vivaldi)
 
 ### Developer tools
 
