@@ -51,19 +51,34 @@ To add a new theme to the organization, you need to review the proposed theme an
 When the theme is ready to be added to the organization, you need to:
 
 1. Create a new team on the organization for the application;
+   
    a) The team name is the application name;
+   
    b) The team description is the application name + "theme maintainers";
+   
    c) Remove yourself as a member (if you created it, don't do so).
+   
 2. Invite the theme creator to that team and ask to transfer the repository;
 3. When the transfer is completed, add the repository to the created team;
+
    a) Set the repository permission to `write`.
+   
 4. Go to the theme repository and then:
+
    a) Disable wikis and projects (we don't use them);
+   
    b) Disable packages (in the same place where we change description);
+   
    c) Add tags (theme, omni, omni-theme, <tool>);
+  
    d) Add description (🎨 Omni for <tool>);
+  
    e) Add Open Graph Image (this is the [Figma link](https://www.figma.com/file/LJRny1i7eOagTXO4Her5u7/Omni-Project/duplicate), use it to generate an image);
+   
    f) Add protection rule for the `main` branch (check the `Require pull request reviews before merging` and `Require review from Code Owners`);
+   
    g) Close the issue and add a `transfer-completed` label;
+   
    h) Ask the owner to add the new theme on the main repo;
+   
    i) That's it, the theme is ready!
