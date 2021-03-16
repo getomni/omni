@@ -46,6 +46,7 @@ Omni currently supports 22 applications. You can find them below:
 ### Other
 
 - [Mailspring](https://github.com/getomni/mailspring)
+- [Slack](https://github.com/getomni/slack)
 - [Spicetify](https://github.com/getomni/spicetify)
 
 ### Productivity
