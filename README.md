@@ -4,7 +4,7 @@ Dark theme created by <a href="https://rocketseat.com.br?ref=omnitheme">Rocketse
 
 ## Themes
 
-Omni currently supports 23 applications. You can find them below:
+Omni currently supports 24 applications. You can find them below:
 
 ### Browsers
 
@@ -15,6 +15,7 @@ Omni currently supports 23 applications. You can find them below:
 ### Developer tools
 
 - [Insomnia](https://github.com/getomni/insomnia)
+- [JetBrains IDEs](https://github.com/getomni/jetbrains)
 - [Visual Studio Code](https://github.com/getomni/visual-studio-code)
 
 ### Unix
