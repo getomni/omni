@@ -1,10 +1,10 @@
 # Omni Theme
 
-Dark theme created by <a href="https://rocketseat.com.br?ref=omnitheme">Rocketseat</a>
+Dark theme created by <a href="https://rocketseat.com.br?ref=omnitheme">Rocketseat</a> 🚀
 
 ## Themes
 
-Omni currently supports 22 applications. You can find them below:
+Omni currently supports 23 applications. You can find them below:
 
 ### Browsers
 
