@@ -4,7 +4,7 @@ Dark theme created by <a href="https://rocketseat.com.br?ref=omnitheme">Rocketse
 
 ## Themes
 
-Omni currently supports 25 applications. You can find them below:
+Omni currently supports 26 applications. You can find them below:
 
 ### Browsers
 
@@ -48,6 +48,7 @@ Omni currently supports 25 applications. You can find them below:
 ### Other
 
 - [Mailspring](https://github.com/getomni/mailspring)
+- [Mattermost](https://github.com/getomni/mattermost)
 - [Slack](https://github.com/getomni/slack)
 - [Spicetify](https://github.com/getomni/spicetify)
 
