@@ -35,6 +35,7 @@ Omni currently supports 27 applications. You can find them below:
 - [Kitty](https://github.com/getomni/kitty)
 - [Konsole](https://github.com/getomni/konsole)
 - [Terminal.app](https://github.com/getomni/terminal)
+- [Termux](https://github.com/getomni/termux)
 - [Windows Terminal](https://github.com/getomni/windows-terminal)
 
 ### Text Editors
