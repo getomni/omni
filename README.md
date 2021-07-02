@@ -18,13 +18,13 @@ Omni currently supports 28 applications. You can find them below:
 - [JetBrains IDEs](https://github.com/getomni/jetbrains)
 - [Visual Studio Code](https://github.com/getomni/visual-studio-code)
 
-### Unix
+### Productivity
 
-- [Gedit](https://github.com/getomni/gedit)
-- [GTK and Gnome Shell](https://github.com/getomni/gtk)
-- [KDE Plasma](https://github.com/getomni/kde-plasma)
-- [Ulauncher](https://github.com/getomni/ulauncher)
-- [k9s CLI](https://github.com/getomni/k9s)
+- [Alfred](https://github.com/getomni/alfred)
+
+### Shell
+
+- [Fish Shell](https://github.com/getomni/fish)
 
 ### Terminal Emulators
 
@@ -42,21 +42,22 @@ Omni currently supports 28 applications. You can find them below:
 
 - [GNU Emacs](https://github.com/getomni/emacs)
 
-### Shell
+### Unix
 
-- [Fish Shell](https://github.com/getomni/fish)
+- [Gedit](https://github.com/getomni/gedit)
+- [GTK and Gnome Shell](https://github.com/getomni/gtk)
+- [KDE Plasma](https://github.com/getomni/kde-plasma)
+- [Ulauncher](https://github.com/getomni/ulauncher)
+- [k9s CLI](https://github.com/getomni/k9s)
 
-### Other
+### Others
 
 - [Mailspring](https://github.com/getomni/mailspring)
 - [Mattermost](https://github.com/getomni/mattermost)
+- [MultiMC](https://github.com/getomni/multimc)
 - [Prism.js](https://github.com/getomni/prismjs)
 - [Slack](https://github.com/getomni/slack)
 - [Spicetify](https://github.com/getomni/spicetify)
-
-### Productivity
-
-- [Alfred](https://github.com/getomni/alfred)
 
 If you want to create a new theme, [check our guide](CONTRIBUTING.md).
 
