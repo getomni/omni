@@ -38,6 +38,7 @@ Omni currently supports 31 applications. You can find them below:
 - [Termux](https://github.com/getomni/termux)
 - [Windows Terminal](https://github.com/getomni/windows-terminal)
 - [XFCE4](https://github.com/getomni/xfce4-terminal)
+- [Deepin Terminal](https://github.com/getomni/deepin-terminal)
 
 ### Text Editors
 
