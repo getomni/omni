@@ -44,7 +44,7 @@ Omni currently supports 34 applications. You can find them below:
 ### Text Editors
 
 - [GNU Emacs](https://github.com/getomni/emacs)
-- [Neovim](https://github.com/neovim/neovim)
+- [Neovim](https://github.com/getomni/neovim)
 - [Notepad++](https://github.com/getomni/notepad-plus-plus)
 
 ### Unix
